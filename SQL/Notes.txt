@@ -3,7 +3,13 @@ Title: Mastering SQL: A Comprehensive Guide for Success
 Introduction:
 In the fast-paced world of technology, mastering SQL (Structured Query Language) is a crucial skill for anyone aspiring to work with databases and handle data efficiently. This blog post serves as a comprehensive guide, providing resources and strategies to enhance your SQL proficiency.
 
-Business Case Exploration: Target Business Case Folder:
+Business Case Exploration:
+Reading order:
+Notes.txt
+Business Case
+Target SQL_reference Doc
+Target_business_Case_solution.pdf or Target_business_Case_solution.pdf
+
 To apply your SQL skills in a real-world context, explore the Business Case folder named "Target Business Case." This section challenges you to solve business-related SQL problems, allowing you to showcase your abilities in a practical setting.
 Practice Makes Perfect: HackerRank and LeetCode
 
